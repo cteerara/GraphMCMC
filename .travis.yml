@@ -6,5 +6,5 @@ node_js:
   - v6
   - v4
 
-npm run test
-after_script: cat ./coverage/lcov.info | coveralls
+
+#after_script: cat ./coverage/lcov.info | coveralls
