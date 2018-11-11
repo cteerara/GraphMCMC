@@ -77,10 +77,10 @@
       "!**/node_modules/**",
       "!**/vendor/**",
       "!**/coverage/**",
-      "!**/lib/index.js"
+      "!**/example/index.js"
+      
     ],
     "collectCoverage": true
-
   },
   "license": "MIT"
 }
