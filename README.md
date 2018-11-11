@@ -1,4 +1,3 @@
-# mcmc [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] 
 > Markov Chain Monte Carlo program to estimate distribution network
 
 ## Usage
