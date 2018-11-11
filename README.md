@@ -11,7 +11,8 @@ const prob = require(".PATH/GraphMCMC/lib/Prob_mod.js");
 const mh = require(".PATH/GraphMCMC/lib/MetropolisHasting_mod.js");
 const io = require(".PATH/GraphMCMC/lib/IO.js");
 ```
-Then call the functions in the modules elaborated below.
+Then call the functions in the modules elaborated below.  
+See the script in GraphMCMC/example/ for an example of usage.  
 
 ## Modules
 * ### State_mod
