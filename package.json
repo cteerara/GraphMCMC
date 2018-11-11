@@ -71,7 +71,16 @@
   },
   "repository": "git@github.com:cteerara/cteerara.git",
   "jest": {
-    "testEnvironment": "node"
+    "testEnvironment": "node",
+    "collectCoverageFrom":[
+      "**/*.{js,jsx}",
+      "!**/node_modules/**",
+      "!**/vendor/**",
+      "!**/coverage/**",
+      "!**/lib/index.js"
+    ],
+    "collectCoverage": true
+
   },
   "license": "MIT"
 }
